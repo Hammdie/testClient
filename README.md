@@ -1,4 +1,4 @@
 # testClient
 
 usage example:
-node https://www.domain.com/
+node testClient.js https://www.domain.com/
